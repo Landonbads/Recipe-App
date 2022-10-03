@@ -9,3 +9,5 @@ Learned:
 -useEffect hook
 -Event handlers
 -SplideJS
+
+*Will have to fill out one .env variable*
